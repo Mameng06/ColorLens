@@ -1,0 +1,26 @@
+{
+  "name": "ColorLensSpecs",
+  "type": "NativeModule",
+  "spec": {
+    "properties": [
+      {
+        "name": "getColorFromImage",
+        "type": "Function",
+        "returnTypeAnnotation": {
+          "type": "Promise",
+          "elementType": {
+            "type": "String"
+          }
+        },
+        "params": [
+          {
+            "name": "uri",
+            "typeAnnotation": {
+              "type": "String"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

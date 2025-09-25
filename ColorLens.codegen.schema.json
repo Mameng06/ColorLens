@@ -1,0 +1,21 @@
+{
+  "modules": {
+    "ColorLens": {
+      "type": "NativeModule",
+      "aliases": {},
+      "properties": [
+        {
+          "name": "getColorFromImage",
+          "optional": false,
+          "type": {
+            "type": "FunctionTypeAnnotation",
+            "returnTypeAnnotation": {"type": "PromiseTypeAnnotation", "elementType": {"type": "StringTypeAnnotation"}},
+            "params": [
+              {"name": "uri", "optional": false, "typeAnnotation": {"type": "StringTypeAnnotation"}}
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
