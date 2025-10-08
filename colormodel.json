@@ -482,7 +482,7 @@
   {
     "name": "Abra Goldenrod",
     "hex": "#eec400",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       80.54909,
       0.49836,
@@ -492,7 +492,7 @@
   {
     "name": "Abra Purple",
     "hex": "#462e6e",
-    "family": "Pink",
+    "family": "Blue",
     "lab": [
       24.89573,
       26.25523,
@@ -532,7 +532,7 @@
   {
     "name": "Absolute Apricot",
     "hex": "#ff9944",
-    "family": "Yellow",
+    "family": "Orange",
     "lab": [
       72.53755,
       31.65889,
@@ -542,7 +542,7 @@
   {
     "name": "Absolute Zero",
     "hex": "#0048ba",
-    "family": "Pink",
+    "family": "Blue",
     "lab": [
       34.35277,
       27.93448,
@@ -552,7 +552,7 @@
   {
     "name": "Abstract",
     "hex": "#e4cb97",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       82.61558,
       1.30096,
@@ -582,7 +582,7 @@
   {
     "name": "Abura Green",
     "hex": "#a19361",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       61.05265,
       -2.27043,
@@ -622,7 +622,7 @@
   {
     "name": "Abyssal Blue",
     "hex": "#00035b",
-    "family": "Pink",
+    "family": "Blue",
     "lab": [
       7.40972,
       35.28112,
@@ -632,7 +632,7 @@
   {
     "name": "Abyssal Depths",
     "hex": "#10246a",
-    "family": "Pink",
+    "family": "Blue",
     "lab": [
       17.5171,
       21.00873,
@@ -652,7 +652,7 @@
   {
     "name": "Abysse",
     "hex": "#3d5758",
-    "family": "Blue",
+    "family": "Gray",
     "lab": [
       35.02879,
       -9.43771,
@@ -662,7 +662,7 @@
   {
     "name": "Abyssopelagic Water",
     "hex": "#000033",
-    "family": "Pink",
+    "family": "Black",
     "lab": [
       2.15859,
       15.16851,
@@ -672,7 +672,7 @@
   {
     "name": "Acacia",
     "hex": "#dbcd64",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       81.64432,
       -8.44621,
@@ -702,7 +702,7 @@
   {
     "name": "Academic Blue",
     "hex": "#2c3e56",
-    "family": "Violet",
+    "family": "Black",
     "lab": [
       25.72062,
       0.25302,
@@ -712,7 +712,7 @@
   {
     "name": "Academy Purple",
     "hex": "#525367",
-    "family": "Pink",
+    "family": "Black",
     "lab": [
       35.90627,
       4.33689,
@@ -722,7 +722,7 @@
   {
     "name": "Acadia",
     "hex": "#35312c",
-    "family": "Gray",
+    "family": "Black",
     "lab": [
       20.57817,
       0.71919,
@@ -742,7 +742,7 @@
   {
     "name": "Acai",
     "hex": "#48295b",
-    "family": "Pink",
+    "family": "Violet",
     "lab": [
       22.71998,
       24.76557,
@@ -752,7 +752,7 @@
   {
     "name": "Acai Berry",
     "hex": "#42314b",
-    "family": "Pink",
+    "family": "Black",
     "lab": [
       23.21309,
       13.38628,
@@ -762,7 +762,7 @@
   {
     "name": "Acai Juice",
     "hex": "#942193",
-    "family": "Pink",
+    "family": "Violet",
     "lab": [
       36.91364,
       59.1764,
@@ -772,7 +772,7 @@
   {
     "name": "Acajou",
     "hex": "#4c2f27",
-    "family": "Orange",
+    "family": "Brown",
     "lab": [
       22.71035,
       12.17572,
@@ -832,7 +832,7 @@
   {
     "name": "Acapulco Dive",
     "hex": "#65a7dd",
-    "family": "Violet",
+    "family": "Blue",
     "lab": [
       66.23059,
       -5.76245,
@@ -842,7 +842,7 @@
   {
     "name": "Acapulco Sun",
     "hex": "#eb8a44",
-    "family": "Yellow",
+    "family": "Orange",
     "lab": [
       66.71809,
       31.39734,
@@ -297072,7 +297072,7 @@
   {
     "name": "Wood Lake",
     "hex": "#a08475",
-    "family": "Yellow",
+    "family": "Brown",
     "lab": [
       57.32905,
       8.33107,
@@ -297102,7 +297102,7 @@
   {
     "name": "Wood Stain Brown",
     "hex": "#796a4e",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       45.52914,
       1.42548,
@@ -297112,7 +297112,7 @@
   {
     "name": "Wood Thrush",
     "hex": "#a47d43",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       55.03743,
       8.32017,
@@ -297122,7 +297122,7 @@
   {
     "name": "Wood Violet",
     "hex": "#78426f",
-    "family": "Pink",
+    "family": "Brown",
     "lab": [
       36.05695,
       30.31197,
@@ -297132,7 +297132,7 @@
   {
     "name": "Wood-Black Red",
     "hex": "#584043",
-    "family": "Red",
+    "family": "Black",
     "lab": [
       29.78034,
       10.95818,
@@ -297162,7 +297162,7 @@
   {
     "name": "Woodbridge",
     "hex": "#847451",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       49.48499,
       0.80354,
@@ -297172,7 +297172,7 @@
   {
     "name": "Woodbridge Trail",
     "hex": "#b3987d",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       64.58117,
       5.92524,
@@ -297182,7 +297182,7 @@
   {
     "name": "Woodburn",
     "hex": "#463629",
-    "family": "Yellow",
+    "family": "Black",
     "lab": [
       24.00152,
       4.98063,
@@ -297192,7 +297192,7 @@
   {
     "name": "Woodchuck",
     "hex": "#8e746c",
-    "family": "Orange",
+    "family": "Brown",
     "lab": [
       51.06511,
       8.85198,
@@ -297212,7 +297212,7 @@
   {
     "name": "Wooded Acre",
     "hex": "#b59b7e",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       65.57211,
       5.21161,
@@ -297232,7 +297232,7 @@
   {
     "name": "Wooden Nutmeg",
     "hex": "#745c51",
-    "family": "Yellow",
+    "family": "Brown",
     "lab": [
       41.15532,
       8.00979,
@@ -297242,7 +297242,7 @@
   {
     "name": "Wooden Peg",
     "hex": "#a89983",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       63.95514,
       1.87687,
@@ -297252,7 +297252,7 @@
   {
     "name": "Wooden Swing",
     "hex": "#a58563",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       57.7284,
       7.43074,
@@ -297262,7 +297262,7 @@
   {
     "name": "Wooden Sword",
     "hex": "#dfb07e",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       74.98046,
       10.72276,
@@ -297422,7 +297422,7 @@
   {
     "name": "Woodrose",
     "hex": "#ac8989",
-    "family": "Orange",
+    "family": "Pink",
     "lab": [
       60.31012,
       13.29249,
@@ -297442,7 +297442,7 @@
   {
     "name": "Woodrush",
     "hex": "#45402b",
-    "family": "Green",
+    "family": "Black",
     "lab": [
       27.03606,
       -1.67045,
@@ -297452,7 +297452,7 @@
   {
     "name": "Woodsmoke",
     "hex": "#2b3230",
-    "family": "Gray",
+    "family": "Black",
     "lab": [
       20.07653,
       -3.50314,
@@ -297462,7 +297462,7 @@
   {
     "name": "Woodstock",
     "hex": "#9b8a5f",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       58.01079,
       -0.06243,
@@ -297482,7 +297482,7 @@
   {
     "name": "Woodsy Brown",
     "hex": "#3d271d",
-    "family": "Yellow",
+    "family": "Black",
     "lab": [
       18.06273,
       8.90865,
@@ -297502,7 +297502,7 @@
   {
     "name": "Woody Brown",
     "hex": "#6e2d2b",
-    "family": "Orange",
+    "family": "Violet",
     "lab": [
       27.75552,
       28.72683,
@@ -297512,7 +297512,7 @@
   {
     "name": "Wooed",
     "hex": "#40446c",
-    "family": "Pink",
+    "family": "Blue",
     "lab": [
       30.17359,
       9.43242,
@@ -297532,7 +297532,7 @@
   {
     "name": "Wool Coat",
     "hex": "#ad9a90",
-    "family": "Gray",
+    "family": "Brown",
     "lab": [
       64.97022,
       5.30794,
@@ -297542,7 +297542,7 @@
   {
     "name": "Wool Skein",
     "hex": "#d9cfba",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       83.4019,
       -0.04036,
@@ -297562,7 +297562,7 @@
   {
     "name": "Wool Tweed",
     "hex": "#917747",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       51.46095,
       3.66803,
@@ -297572,7 +297572,7 @@
   {
     "name": "Wool Violet",
     "hex": "#5e5587",
-    "family": "Pink",
+    "family": "Violet",
     "lab": [
       38.94302,
       15.64979,
@@ -297602,7 +297602,7 @@
   {
     "name": "Woolen Mittens",
     "hex": "#b59f55",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       65.96369,
       -1.53697,
@@ -297612,7 +297612,7 @@
   {
     "name": "Woolen Vest",
     "hex": "#b0a582",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       67.83788,
       -1.66729,
@@ -297622,7 +297622,7 @@
   {
     "name": "Woolly Beige",
     "hex": "#e7d5c9",
-    "family": "White",
+    "family": "Pink",
     "lab": [
       86.40259,
       4.23977,
@@ -297632,7 +297632,7 @@
   {
     "name": "Woolly Mammoth",
     "hex": "#bb9c7c",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       66.36534,
       6.8069,
@@ -297642,7 +297642,7 @@
   {
     "name": "Wooly Thyme",
     "hex": "#907e63",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       53.76326,
       2.59266,
@@ -297662,7 +297662,7 @@
   {
     "name": "Worcestershire Sauce",
     "hex": "#572b26",
-    "family": "Orange",
+    "family": "Brown",
     "lab": [
       23.319,
       19.65418,
@@ -297682,7 +297682,7 @@
   {
     "name": "Workbench",
     "hex": "#cda366",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       69.56523,
       7.96698,
@@ -297702,7 +297702,7 @@
   {
     "name": "Workout Routine",
     "hex": "#ffd789",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       87.80922,
       4.19996,
@@ -297752,7 +297752,7 @@
   {
     "name": "Worn Denim",
     "hex": "#4282c6",
-    "family": "Violet",
+    "family": "Blue",
     "lab": [
       53.16691,
       1.32959,
@@ -297772,7 +297772,7 @@
   {
     "name": "Worn Khaki",
     "hex": "#a69c81",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       64.53914,
       -0.85828,
@@ -297782,7 +297782,7 @@
   {
     "name": "Worn Olive",
     "hex": "#6f6c0a",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       44.41423,
       -9.76203,
@@ -297822,7 +297822,7 @@
   {
     "name": "Worsted Tan",
     "hex": "#ab9379",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       62.42873,
       4.92747,
@@ -297832,7 +297832,7 @@
   {
     "name": "Woven",
     "hex": "#e0d1a0",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       83.95915,
       -2.21391,
@@ -297842,7 +297842,7 @@
   {
     "name": "Woven Basket",
     "hex": "#8e7b58",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       52.5331,
       1.99199,
@@ -297852,7 +297852,7 @@
   {
     "name": "Woven Gold",
     "hex": "#dcb639",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       75.432,
       1.2345,
@@ -297872,7 +297872,7 @@
   {
     "name": "Woven Raffia",
     "hex": "#f1dfc0",
-    "family": "Green",
+    "family": "White",
     "lab": [
       89.52537,
       1.31458,
@@ -297882,7 +297882,7 @@
   {
     "name": "Woven Reed",
     "hex": "#dddcbf",
-    "family": "Green",
+    "family": "White",
     "lab": [
       87.15378,
       -4.53228,
@@ -297892,7 +297892,7 @@
   {
     "name": "Woven Straw",
     "hex": "#c1ac8b",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       71.35597,
       2.49526,
@@ -297902,7 +297902,7 @@
   {
     "name": "Woven Wicker",
     "hex": "#b99974",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       65.2464,
       6.64342,
@@ -297932,7 +297932,7 @@
   {
     "name": "Wreath",
     "hex": "#76856a",
-    "family": "Green",
+    "family": "Gray",
     "lab": [
       53.67193,
       -10.75445,
@@ -297942,7 +297942,7 @@
   {
     "name": "Wren",
     "hex": "#4a4139",
-    "family": "Gray",
+    "family": "Black",
     "lab": [
       28.1995,
       2.32442,
@@ -297952,7 +297952,7 @@
   {
     "name": "Wright Brown",
     "hex": "#71635e",
-    "family": "Gray",
+    "family": "Brown",
     "lab": [
       43.1268,
       4.67296,
@@ -297960,7 +297960,7 @@
     ]
   },
   {
-    "name": "Writerâ€™s Parchment",
+    "name": "Light White",
     "hex": "#e9d6bd",
     "family": "White",
     "lab": [
@@ -297992,7 +297992,7 @@
   {
     "name": "Wrought Iron Gate",
     "hex": "#474749",
-    "family": "Gray",
+    "family": "Black",
     "lab": [
       30.22315,
       0.44548,
@@ -298002,7 +298002,7 @@
   {
     "name": "Wu-Tang Gold",
     "hex": "#f8d106",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       84.7782,
       -1.81888,
@@ -298012,7 +298012,7 @@
   {
     "name": "Wulfenite",
     "hex": "#ce7639",
-    "family": "Yellow",
+    "family": "Orange",
     "lab": [
       58.39292,
       29.59256,
@@ -298032,7 +298032,7 @@
   {
     "name": "X Marks the Spot",
     "hex": "#e6474a",
-    "family": "Brown",
+    "family": "Red",
     "lab": [
       53.84398,
       61.12643,
@@ -298040,7 +298040,7 @@
     ]
   },
   {
-    "name": "Xâkestari White",
+    "name": "Xakestari White",
     "hex": "#fef2dc",
     "family": "White",
     "lab": [
@@ -298062,7 +298062,7 @@
   {
     "name": "Xanthe Yellow",
     "hex": "#ffee55",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       93.04369,
       -11.1737,
@@ -298072,7 +298072,7 @@
   {
     "name": "Xanthic",
     "hex": "#f4e216",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       88.77368,
       -11.88693,
@@ -298082,7 +298082,7 @@
   {
     "name": "Xanthous",
     "hex": "#f1b42f",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       77.01188,
       10.91748,
@@ -298102,7 +298102,7 @@
   {
     "name": "Xena",
     "hex": "#847e54",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       52.36185,
       -4.49751,
@@ -298112,7 +298112,7 @@
   {
     "name": "Xenon Blue",
     "hex": "#b7c0d7",
-    "family": "Violet",
+    "family": "Gray",
     "lab": [
       77.68113,
       1.54792,
@@ -298122,7 +298122,7 @@
   {
     "name": "Xereus Purple",
     "hex": "#7d0061",
-    "family": "Pink",
+    "family": "Violet",
     "lab": [
       27.36369,
       53.87451,
@@ -298130,9 +298130,9 @@
     ]
   },
   {
-    "name": "Xiān Hóng Red",
+    "name": "Crimson Red",
     "hex": "#e60626",
-    "family": "Brown",
+    "family": "Red",
     "lab": [
       48.38275,
       74.08693,
@@ -298160,9 +298160,9 @@
     ]
   },
   {
-    "name": "Xìng Huáng Yellow",
+    "name": "Sunny Yellow",
     "hex": "#fce166",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       89.63008,
       -4.91406,
@@ -298170,9 +298170,9 @@
     ]
   },
   {
-    "name": "XÄ«pe TotÄ“c Red",
+    "name": "Dark Red",
     "hex": "#cc1166",
-    "family": "Brown",
+    "family": "Pink",
     "lab": [
       44.51946,
       69.84681,
@@ -298180,9 +298180,9 @@
     ]
   },
   {
-    "name": "Xmas Candy",
+    "name": "Dark Red",
     "hex": "#990020",
-    "family": "Brown",
+    "family": "Red",
     "lab": [
       31.52836,
       55.35621,
@@ -298222,7 +298222,7 @@
   {
     "name": "Yacht Club Blue",
     "hex": "#485783",
-    "family": "Violet",
+    "family": "Blue",
     "lab": [
       37.54,
       6.64786,
@@ -298232,7 +298232,7 @@
   {
     "name": "Yacht Harbor",
     "hex": "#7c9dae",
-    "family": "Blue",
+    "family": "Gray",
     "lab": [
       62.88913,
       -7.31747,
@@ -298242,7 +298242,7 @@
   {
     "name": "Yahoo",
     "hex": "#fabba9",
-    "family": "Orange",
+    "family": "Pink",
     "lab": [
       81.14401,
       20.33193,
@@ -298252,7 +298252,7 @@
   {
     "name": "Yakitori",
     "hex": "#ecab3f",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       74.3943,
       14.1397,
@@ -298262,7 +298262,7 @@
   {
     "name": "Yale Blue",
     "hex": "#0f4d92",
-    "family": "Violet",
+    "family": "Blue",
     "lab": [
       32.88414,
       8.76155,
@@ -298272,7 +298272,7 @@
   {
     "name": "Yam",
     "hex": "#c98431",
-    "family": "Yellow",
+    "family": "Orange",
     "lab": [
       60.90854,
       19.54207,
@@ -298282,7 +298282,7 @@
   {
     "name": "Yamabuki Gold",
     "hex": "#ffa400",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       74.70807,
       24.45033,
@@ -298292,7 +298292,7 @@
   {
     "name": "Yamabukicha Gold",
     "hex": "#cb7e1f",
-    "family": "Yellow",
+    "family": "Orange",
     "lab": [
       59.63456,
       23.04382,
@@ -298302,7 +298302,7 @@
   {
     "name": "Yān Hūi Smoke",
     "hex": "#a8c3bc",
-    "family": "Blue",
+    "family": "Gray",
     "lab": [
       76.66996,
       -10.49752,
@@ -298312,7 +298312,7 @@
   {
     "name": "Yanagicha",
     "hex": "#9c8a4d",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       57.82896,
       -1.59276,
@@ -298330,9 +298330,9 @@
     ]
   },
   {
-    "name": "Yáng Chéng Orange",
+    "name": "Pastel Orange",
     "hex": "#f1a141",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       72.61151,
       21.61603,
@@ -298352,7 +298352,7 @@
   {
     "name": "Yankee Doodle",
     "hex": "#4d5a6b",
-    "family": "Violet",
+    "family": "Black",
     "lab": [
       37.7551,
       -0.72507,
@@ -298362,7 +298362,7 @@
   {
     "name": "Yankees Blue",
     "hex": "#1c2841",
-    "family": "Violet",
+    "family": "Black",
     "lab": [
       16.23558,
       3.36663,
@@ -298372,7 +298372,7 @@
   {
     "name": "Yardbird",
     "hex": "#9e826a",
-    "family": "Yellow",
+    "family": "Brown",
     "lab": [
       56.36282,
       7.09728,
@@ -298382,7 +298382,7 @@
   {
     "name": "Yarmouth Oyster",
     "hex": "#dccfb6",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       83.55768,
       0.43306,
@@ -298392,7 +298392,7 @@
   {
     "name": "Yarrow",
     "hex": "#d8ad39",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       72.74911,
       4.25502,
@@ -298402,7 +298402,7 @@
   {
     "name": "Yawl",
     "hex": "#547497",
-    "family": "Violet",
+    "family": "Blue",
     "lab": [
       47.76391,
       -1.75468,
@@ -298410,9 +298410,9 @@
     ]
   },
   {
-    "name": "Ye Olde Rustic Colour",
+    "name": "Dark Tan",
     "hex": "#7c6c57",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       46.57667,
       2.82484,
@@ -298422,7 +298422,7 @@
   {
     "name": "Yearling",
     "hex": "#ad896a",
-    "family": "Yellow",
+    "family": "Brown",
     "lab": [
       59.72327,
       9.36307,
@@ -298432,7 +298432,7 @@
   {
     "name": "Yearning",
     "hex": "#061088",
-    "family": "Pink",
+    "family": "Blue",
     "lab": [
       16.43707,
       43.75247,
@@ -298442,7 +298442,7 @@
   {
     "name": "Yearning Desire",
     "hex": "#ca135e",
-    "family": "Brown",
+    "family": "Red",
     "lab": [
       43.9933,
       68.50749,
@@ -298452,7 +298452,7 @@
   {
     "name": "Yeast",
     "hex": "#fae1ac",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       90.39271,
       0.96117,
@@ -298462,7 +298462,7 @@
   {
     "name": "Yell for Yellow",
     "hex": "#fffe00",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       96.87957,
       -21.08319,
@@ -298472,7 +298472,7 @@
   {
     "name": "Yellow",
     "hex": "#ffff00",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       97.13882,
       -21.55776,
@@ -298482,7 +298482,7 @@
   {
     "name": "Yellow Acorn",
     "hex": "#b68d4c",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       61.23612,
       7.97554,
@@ -298502,7 +298502,7 @@
   {
     "name": "Yellow Beam",
     "hex": "#f9eed0",
-    "family": "Green",
+    "family": "White",
     "lab": [
       94.24547,
       -1.10333,
@@ -298512,7 +298512,7 @@
   {
     "name": "Yellow Beige",
     "hex": "#e3c08d",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       79.58818,
       5.48438,
@@ -298522,7 +298522,7 @@
   {
     "name": "Yellow Bell Pepper",
     "hex": "#ffdd33",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       88.54989,
       -4.12473,
@@ -298532,7 +298532,7 @@
   {
     "name": "Yellow Bird",
     "hex": "#f1cd7b",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       83.85921,
       2.46201,
@@ -298542,7 +298542,7 @@
   {
     "name": "Yellow Bliss",
     "hex": "#f4eaba",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       92.40901,
       -4.02848,
@@ -298552,7 +298552,7 @@
   {
     "name": "Yellow Blitz",
     "hex": "#fdf4bb",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       95.65261,
       -5.60915,
@@ -298562,7 +298562,7 @@
   {
     "name": "Yellow Bombinate",
     "hex": "#faf3cf",
-    "family": "Green",
+    "family": "White",
     "lab": [
       95.55152,
       -3.4194,
@@ -298582,7 +298582,7 @@
   {
     "name": "Yellow Brick Road",
     "hex": "#eac853",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       81.52605,
       -0.83613,
@@ -298592,7 +298592,7 @@
   {
     "name": "Yellow Brown",
     "hex": "#ae8b0c",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       59.42674,
       2.57145,
@@ -298602,7 +298602,7 @@
   {
     "name": "Yellow Buzzing",
     "hex": "#eedd11",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       86.96363,
       -12.00772,
@@ -298612,7 +298612,7 @@
   {
     "name": "Yellow Canary",
     "hex": "#ffeaac",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       93.05196,
       -1.71675,
@@ -298622,7 +298622,7 @@
   {
     "name": "Yellow Cattleya",
     "hex": "#fff44f",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       94.53746,
       -14.41217,
@@ -298632,7 +298632,7 @@
   {
     "name": "Yellow Chalk",
     "hex": "#f5f9ad",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       96.07201,
       -12.81338,
@@ -298642,7 +298642,7 @@
   {
     "name": "Yellow Coneflower",
     "hex": "#edb856",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       77.85137,
       8.93358,
@@ -298652,7 +298652,7 @@
   {
     "name": "Yellow Corn",
     "hex": "#ffde88",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       89.52506,
       0.53254,
@@ -298662,7 +298662,7 @@
   {
     "name": "Yellow Cream",
     "hex": "#eed36c",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       84.91996,
       -3.09763,
@@ -298672,7 +298672,7 @@
   {
     "name": "Yellow Currant",
     "hex": "#f7c66b",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       82.50035,
       7.20276,
@@ -298692,7 +298692,7 @@
   {
     "name": "Yellow Dragon",
     "hex": "#f8e47e",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       90.2992,
       -6.17906,
@@ -298712,7 +298712,7 @@
   {
     "name": "Yellow Endive",
     "hex": "#d2cc81",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       81.00111,
       -8.82071,
@@ -298722,7 +298722,7 @@
   {
     "name": "Yellow Essence",
     "hex": "#fce1b6",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       90.74562,
       2.97787,
@@ -298732,7 +298732,7 @@
   {
     "name": "Yellow Exhilaration",
     "hex": "#ffb102",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       77.7049,
       17.68367,
@@ -298742,7 +298742,7 @@
   {
     "name": "Yellow Flash",
     "hex": "#ffca00",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       83.70695,
       4.70204,
@@ -298752,7 +298752,7 @@
   {
     "name": "Yellow Geranium",
     "hex": "#ffe1a0",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       90.62014,
       1.45977,
@@ -298762,7 +298762,7 @@
   {
     "name": "Yellow Gold",
     "hex": "#be8400",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       59.39002,
       13.52469,
@@ -298792,7 +298792,7 @@
   {
     "name": "Yellow Groove",
     "hex": "#f7b930",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       78.86156,
       10.88172,
@@ -298802,7 +298802,7 @@
   {
     "name": "Yellow Iris",
     "hex": "#ede68a",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       90.06055,
       -10.38567,
@@ -298812,7 +298812,7 @@
   {
     "name": "Yellow Jacket",
     "hex": "#ffcc3a",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       84.35693,
       4.75176,
@@ -298822,7 +298822,7 @@
   {
     "name": "Yellow Jasmine",
     "hex": "#eee8aa",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       91.14076,
       -7.35115,
@@ -298832,7 +298832,7 @@
   {
     "name": "Yellow Jasper",
     "hex": "#daa436",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       70.68091,
       9.78191,
@@ -298842,7 +298842,7 @@
   {
     "name": "Yellow Jubilee",
     "hex": "#ffd379",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       86.6186,
       4.83876,
@@ -298852,7 +298852,7 @@
   {
     "name": "Yellow Lotus",
     "hex": "#f6d099",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       85.50725,
       5.92759,
@@ -298862,7 +298862,7 @@
   {
     "name": "Yellow Lupine",
     "hex": "#ccaa4d",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       70.95648,
       1.79702,
@@ -298872,7 +298872,7 @@
   {
     "name": "Yellow Maize",
     "hex": "#c0a85a",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       69.43467,
       -1.25173,
@@ -298882,7 +298882,7 @@
   {
     "name": "Yellow Mana",
     "hex": "#fdfcbf",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       97.73895,
       -9.05968,
@@ -298892,7 +298892,7 @@
   {
     "name": "Yellow Mandarin",
     "hex": "#d28034",
-    "family": "Yellow",
+    "family": "Orange",
     "lab": [
       61.12479,
       25.66885,
@@ -298902,7 +298902,7 @@
   {
     "name": "Yellow Mask",
     "hex": "#f6d255",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       85.17169,
       -0.8438,
@@ -298912,7 +298912,7 @@
   {
     "name": "Yellow Mellow",
     "hex": "#f0d31e",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       84.59166,
       -5.94665,
@@ -298922,7 +298922,7 @@
   {
     "name": "Yellow Metal",
     "hex": "#73633e",
-    "family": "Green",
+    "family": "Black",
     "lab": [
       42.63744,
       0.85236,
@@ -298932,7 +298932,7 @@
   {
     "name": "Yellow Nile",
     "hex": "#95804a",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       54.36804,
       0.62919,
@@ -298942,7 +298942,7 @@
   {
     "name": "Yellow Ocher",
     "hex": "#c39143",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       63.55714,
       10.77674,
@@ -298952,7 +298952,7 @@
   {
     "name": "Yellow Ochre",
     "hex": "#cb9d06",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       67.14593,
       5.76894,
@@ -298962,7 +298962,7 @@
   {
     "name": "Yellow of Izamal",
     "hex": "#eaad04",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       74.4393,
       10.8161,
@@ -298972,7 +298972,7 @@
   {
     "name": "Yellow Orange",
     "hex": "#fcb001",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       77.13227,
       16.92713,
@@ -298992,7 +298992,7 @@
   {
     "name": "Yellow Pear",
     "hex": "#e9df8a",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       87.93733,
       -8.44313,
@@ -299002,7 +299002,7 @@
   {
     "name": "Yellow Pepper",
     "hex": "#eeef06",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       91.65095,
       -20.89281,
@@ -299012,7 +299012,7 @@
   {
     "name": "Yellow Petal",
     "hex": "#f0e74b",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       89.94587,
       -14.38939,
@@ -299032,7 +299032,7 @@
   {
     "name": "Yellow Polka Dot",
     "hex": "#fcb867",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       79.59045,
       16.25639,
@@ -299042,7 +299042,7 @@
   {
     "name": "Yellow Powder",
     "hex": "#fcfd74",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       96.90528,
       -17.69954,
@@ -299052,7 +299052,7 @@
   {
     "name": "Yellow Press",
     "hex": "#e6e382",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       88.62567,
       -12.42876,
@@ -299062,7 +299062,7 @@
   {
     "name": "Yellow Rose",
     "hex": "#fff000",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       93.2687,
       -14.34849,
@@ -299072,7 +299072,7 @@
   {
     "name": "Yellow Salmonberry",
     "hex": "#fff47c",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       94.91539,
       -11.51391,
@@ -299082,7 +299082,7 @@
   {
     "name": "Yellow Sand",
     "hex": "#a28744",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       57.4897,
       1.90916,
@@ -299092,7 +299092,7 @@
   {
     "name": "Yellow Sea",
     "hex": "#f49f35",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       72.42189,
       23.43884,
@@ -299102,7 +299102,7 @@
   {
     "name": "Yellow Shimmer",
     "hex": "#f8e2ca",
-    "family": "White",
+    "family": "Pink",
     "lab": [
       91.05965,
       3.7695,
@@ -299112,7 +299112,7 @@
   {
     "name": "Yellow Shout",
     "hex": "#d19932",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       66.95336,
       11.63008,
@@ -299122,7 +299122,7 @@
   {
     "name": "Yellow Stagshorn",
     "hex": "#fada5e",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       87.61951,
       -2.7202,
@@ -299132,7 +299132,7 @@
   {
     "name": "Yellow Submarine",
     "hex": "#ffff14",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       97.15934,
       -21.39162,
@@ -299142,7 +299142,7 @@
   {
     "name": "Yellow Sumac",
     "hex": "#e19447",
-    "family": "Yellow",
+    "family": "Orange",
     "lab": [
       67.75828,
       22.15266,
@@ -299152,7 +299152,7 @@
   {
     "name": "Yellow Summer",
     "hex": "#f9b500",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       77.98754,
       13.02755,
@@ -299162,7 +299162,7 @@
   {
     "name": "Yellow Sunshine",
     "hex": "#fff601",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       94.81266,
       -17.24801,
@@ -299172,7 +299172,7 @@
   {
     "name": "Yellow Taffy",
     "hex": "#f7edb7",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       93.34721,
       -4.83628,
@@ -299182,7 +299182,7 @@
   {
     "name": "Yellow Tail",
     "hex": "#fff29d",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       94.82305,
       -7.42229,
@@ -299192,7 +299192,7 @@
   {
     "name": "Yellow Tang",
     "hex": "#ffd300",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       85.93209,
       0.10122,
@@ -299202,7 +299202,7 @@
   {
     "name": "Yellow Trumpet",
     "hex": "#f9d988",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       87.74915,
       0.7052,
@@ -299212,7 +299212,7 @@
   {
     "name": "Yellow Tulip",
     "hex": "#f6d06e",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       84.91099,
       1.85676,
@@ -299222,7 +299222,7 @@
   {
     "name": "Yellow Umbrella",
     "hex": "#cdbb63",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       75.71298,
       -5.04233,
@@ -299232,7 +299232,7 @@
   {
     "name": "Yellow Urn Orchid",
     "hex": "#fffdd0",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       98.45814,
       -6.49439,
@@ -299242,7 +299242,7 @@
   {
     "name": "Yellow Varnish",
     "hex": "#eab565",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       76.97021,
       10.30473,
@@ -299252,7 +299252,7 @@
   {
     "name": "Yellow Warbler",
     "hex": "#ffba6f",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       80.47611,
       17.01327,
@@ -299262,7 +299262,7 @@
   {
     "name": "Yellow Warning",
     "hex": "#c69035",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       63.51711,
       11.85977,
@@ -299272,7 +299272,7 @@
   {
     "name": "Yellow Wax Pepper",
     "hex": "#ede5b7",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       90.53421,
       -4.48389,
@@ -299282,7 +299282,7 @@
   {
     "name": "Yellow Yarn",
     "hex": "#fef6be",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       96.2868,
       -5.84724,
@@ -299292,7 +299292,7 @@
   {
     "name": "Yellow-Bellied",
     "hex": "#ffee33",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       92.86101,
       -12.56618,
@@ -299312,7 +299312,7 @@
   {
     "name": "Yellow-Rumped Warbler",
     "hex": "#eebb77",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       79.07129,
       10.27357,
@@ -299322,7 +299322,7 @@
   {
     "name": "Yellowed Bone",
     "hex": "#f6f1c4",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       94.5213,
       -5.43625,
@@ -299332,7 +299332,7 @@
   {
     "name": "Yellowish",
     "hex": "#faee66",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       92.76605,
       -12.18922,
@@ -299342,7 +299342,7 @@
   {
     "name": "Yellowish Brown",
     "hex": "#9b7a01",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       52.82982,
       3.0897,
@@ -299372,7 +299372,7 @@
   {
     "name": "Yellowish Orange",
     "hex": "#ffab0f",
-    "family": "Green",
+    "family": "Orange",
     "lab": [
       76.3289,
       20.92412,
@@ -299382,7 +299382,7 @@
   {
     "name": "Yellowish Tan",
     "hex": "#fcfc81",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       96.78034,
       -16.17632,
@@ -299392,7 +299392,7 @@
   {
     "name": "Yellowish White",
     "hex": "#e9f1d0",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       93.7918,
       -8.25905,
@@ -299400,9 +299400,9 @@
     ]
   },
   {
-    "name": "Yellowl",
+    "name": "Golden Yellow",
     "hex": "#f3d80e",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       86.10648,
       -7.42168,
@@ -299410,9 +299410,9 @@
     ]
   },
   {
-    "name": "Yellowstone",
+    "name": "Yellow Stone",
     "hex": "#ceb736",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       74.35357,
       -5.45965,
@@ -299422,7 +299422,7 @@
   {
     "name": "Yellowstone Park",
     "hex": "#e4d6ba",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       86.07296,
       0.32727,
@@ -299442,7 +299442,7 @@
   {
     "name": "Yerba Mate",
     "hex": "#c8c48f",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       78.31158,
       -6.92014,
@@ -299452,7 +299452,7 @@
   {
     "name": "Yeti Footprint",
     "hex": "#c7d7e0",
-    "family": "White",
+    "family": "Gray",
     "lab": [
       85.05967,
       -3.59561,
@@ -299480,9 +299480,9 @@
     ]
   },
   {
-    "name": "Yín Bái Silver",
+    "name": "Light Silver",
     "hex": "#e0e1e2",
-    "family": "White",
+    "family": "Gray",
     "lab": [
       89.48127,
       -0.1568,
@@ -299502,7 +299502,7 @@
   {
     "name": "Yin Mist",
     "hex": "#3b3c3c",
-    "family": "Gray",
+    "family": "Black",
     "lab": [
       25.22251,
       -0.42494,
@@ -299510,7 +299510,7 @@
     ]
   },
   {
-    "name": "Yín Sè Silver",
+    "name": "Light Gray",
     "hex": "#b1c4cb",
     "family": "Gray",
     "lab": [
@@ -299540,9 +299540,9 @@
     ]
   },
   {
-    "name": "Yíng Guāng Sè Purple",
+    "name": "Electric Indigo",
     "hex": "#632de9",
-    "family": "Pink",
+    "family": "Blue",
     "lab": [
       38.57199,
       66.03276,
@@ -299550,9 +299550,9 @@
     ]
   },
   {
-    "name": "YInMn Blue",
+    "name": "Bright Blue",
     "hex": "#265ef7",
-    "family": "Pink",
+    "family": "Blue",
     "lab": [
       45.81334,
       38.62506,
@@ -299562,7 +299562,7 @@
   {
     "name": "Yippie Ya Yellow",
     "hex": "#f9f59f",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       95.13935,
       -10.97797,
@@ -299572,7 +299572,7 @@
   {
     "name": "Yippie Yellow",
     "hex": "#ffff84",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       97.81183,
       -16.20363,
@@ -299590,9 +299590,9 @@
     ]
   },
   {
-    "name": "Yoghurt Brûlée",
+    "name": "Ivory",
     "hex": "#f5e9ce",
-    "family": "White",
+    "family": "Yellow",
     "lab": [
       92.63985,
       -0.28934,
@@ -299612,7 +299612,7 @@
   {
     "name": "Yogurt",
     "hex": "#ffecc3",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       93.96593,
       0.21786,
@@ -299622,7 +299622,7 @@
   {
     "name": "Yolanda",
     "hex": "#a291ba",
-    "family": "Pink",
+    "family": "Violet",
     "lab": [
       62.90865,
       14.41937,
@@ -299642,7 +299642,7 @@
   {
     "name": "Yolk",
     "hex": "#eec701",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       81.3073,
       -1.0373,
@@ -299652,7 +299652,7 @@
   {
     "name": "Yolk Yellow",
     "hex": "#e2b051",
-    "family": "Green",
+    "family": "Yellow",
     "lab": [
       74.70861,
       8.22154,
@@ -299662,7 +299662,7 @@
   {
     "name": "York Beige",
     "hex": "#aa987f",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       63.78298,
       2.61977,
@@ -299672,7 +299672,7 @@
   {
     "name": "York Bisque",
     "hex": "#f3d9c7",
-    "family": "White",
+    "family": "Pink",
     "lab": [
       88.35473,
       6.16245,
@@ -299682,7 +299682,7 @@
   {
     "name": "York Pink",
     "hex": "#d7837f",
-    "family": "Orange",
+    "family": "Red",
     "lab": [
       63.51979,
       31.84856,
@@ -299692,7 +299692,7 @@
   {
     "name": "York Plum",
     "hex": "#d3bfe5",
-    "family": "Pink",
+    "family": "Violet",
     "lab": [
       80.04891,
       14.04325,
@@ -299712,7 +299712,7 @@
   {
     "name": "Yorkshire Brown",
     "hex": "#735c53",
-    "family": "Yellow",
+    "family": "Brown",
     "lab": [
       41.09515,
       7.88835,
@@ -299740,9 +299740,9 @@
     ]
   },
   {
-    "name": "Youâ€™re Blushing",
+    "name": "Pale Taupe",
     "hex": "#e2caaf",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       82.65008,
       4.22924,
@@ -299752,7 +299752,7 @@
   {
     "name": "Young Apricot",
     "hex": "#fcd8b5",
-    "family": "Green",
+    "family": "Brown",
     "lab": [
       88.51696,
       7.47434,
@@ -299812,7 +299812,7 @@
   {
     "name": "Young Crab",
     "hex": "#f6a09d",
-    "family": "Orange",
+    "family": "Pink",
     "lab": [
       74.29963,
       31.59142,
@@ -299902,7 +299902,7 @@
   {
     "name": "Young Mahogany",
     "hex": "#ca3435",
-    "family": "Brown",
+    "family": "Red",
     "lab": [
       46.00545,
       58.25993,
@@ -299992,7 +299992,7 @@
   {
     "name": "Young Turk",
     "hex": "#c9afa9",
-    "family": "Pink",
+    "family": "Gray",
     "lab": [
       73.50848,
       8.38799,
